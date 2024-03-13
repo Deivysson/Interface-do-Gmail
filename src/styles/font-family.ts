@@ -1,5 +1,5 @@
 export const fontFamily = {
-  heading: "Roboto_700Bold", //titulos
-  subtitle: "Roboto_500Medium", //sub
-  body: "Roboto_400Regular", //corpo
+  heading: "Roboto_700Bold",
+  subtitle: "Roboto_500Medium",
+  body: "Roboto_400Regular",
 }
