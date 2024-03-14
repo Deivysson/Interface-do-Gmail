@@ -3,7 +3,7 @@ export type EmailDataProps = (typeof EMAILS)[0]
 export const EMAILS = [
   {
     id: "1",
-    name: "Andy",
+    name: "Emilly",
     avatar: "https://mighty.tools/mockmind-api/content/human/44.jpg",
     marker: "importante",
     subject: "What is Lorem Ipsum",
@@ -14,7 +14,7 @@ export const EMAILS = [
   },
   {
     id: "2",
-    name: "John",
+    name: "Breno",
     avatar: "https://mighty.tools/mockmind-api/content/human/65.jpg",
     marker: "importante",
     subject: "Where does it come from",
@@ -23,4 +23,16 @@ export const EMAILS = [
     start: true,
     date: "13 de fev.",
   },
+  {
+    id: "3",
+    name: "Sophia",
+    avatar: "https://mighty.tools/mockmind-api/content/human/56.jpg",
+    marker: "importante",
+    subject: "What is Lorem Ipsum",
+    message:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    start: false,
+    date: "12 de fev.",
+  },
+
 ]
