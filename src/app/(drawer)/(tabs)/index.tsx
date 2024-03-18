@@ -13,7 +13,7 @@ export default function Home() {
       <Input>
         <MenuButton />
         <Input.Field placeholder="Pesquisar no e-mail" />
-        <Avatar source={{ uri: "https://github.com/orodrigogo.png" }} />
+        <Avatar source={{ uri: "https://github.com/Deivysson.png" }} />
       </Input>
 
       <FlatList
